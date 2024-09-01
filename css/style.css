@@ -1147,13 +1147,13 @@ li {
           .member_registration {
             width: 120px;
             height: 25px;
-            font-size: 0.6rem;
+            font-size: 0.7rem;
+            letter-spacing: nomal;
               
             .line_icon {
               font-size: 15px;
             }
             .line_text {
-              font-size: 0.7rem;
               letter-spacing: 0.3rem;
             }
           }
