@@ -755,7 +755,8 @@ li {
 
   .copy_right {
     text-align: center;
-    margin: 30px 0 15px 0;
+    font-size: 0.8rem;
+    padding: 50px 0 5px;
   }
 }
 
@@ -1163,7 +1164,6 @@ li {
 
     .copy_right {
       text-align: center;
-      margin: 20px 0 5px;
     }
   }
 }
