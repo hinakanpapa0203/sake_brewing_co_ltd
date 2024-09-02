@@ -1110,15 +1110,8 @@ li {
           align-self: center; /* 垂直方向に中央揃え */
 
           .icons {
-            .f_color {
-              right: 25%;
-            }
-            .i_color {
-              right: 30%;
-            }
-            .t_color {
-              right: 35%;
-            }
+            right: 40%;
+            margin-left: 20px;
           }
   
           .icons a .layer {
@@ -1142,7 +1135,7 @@ li {
 
         .contact_us ,
         .contact_line {
-          margin-right: 35%;
+          margin-right: 32%;
 
           .contact_btn ,
           .member_registration {
@@ -1182,15 +1175,8 @@ li {
       .media_flex {
         .social_media {
           .icons {
-            .f_color {
-              right: 30%;
-            }
-            .i_color {
-              right: 60%;
-            }
-            .t_color {
-              right: 115%;
-            }
+            right: 30%;
+            margin-left: 0;
           }
   
           .icons a .layer {
@@ -1205,7 +1191,7 @@ li {
 
         .contact_us ,
         .contact_line {
-          margin-left: -30px;
+          margin-right: 20%;
         }
       }
     }
