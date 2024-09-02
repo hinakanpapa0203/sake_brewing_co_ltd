@@ -1116,8 +1116,7 @@ li {
           align-self: center; /* 垂直方向に中央揃え */
 
           .icons {
-            right: 40%;
-            margin-left: 20px;
+            right: 26%;
           }
   
           .icons a .layer {
@@ -1182,8 +1181,8 @@ li {
       .media_flex {
         .social_media {
           .icons {
-            right: 30%;
-            margin-left: 0;
+            right: 24%;
+            margin-left; 10px;
           }
   
           .icons a .layer {
@@ -1198,7 +1197,7 @@ li {
 
         .contact_us ,
         .contact_line {
-          margin-right: 20%;
+          margin-right: 24px;
         }
       }
     }
