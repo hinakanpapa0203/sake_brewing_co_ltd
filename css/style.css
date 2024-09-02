@@ -868,6 +868,7 @@ li {
     .btn {
       width: 35px;
       height: 35px;
+      right: 6px;
   
       &::after {
         content: "";
@@ -1008,6 +1009,11 @@ li {
     .nav_menu {
       font-size: 0.6rem;
     }
+  }
+
+  /*shop_btn位置調整*/
+  .shop_button {
+    right: 40px;
   }
 
   :root {
