@@ -764,18 +764,6 @@ li {
 ---------- min-width.1920px ----------
 ------------------------------------*/
 @media screen and (min-width: 1920px) {
-    
-  /*tou_btn位置調整*/
-  .top_btn {
-    .btn { 
-      right: 2%;
-    }
-  }
-
-  /*shop_button位置調整*/
-  .shop_button {
-    right: 2%;
-  }
 
   /*footer幅をmain_visual同等に*/
   #footer {
